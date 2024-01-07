@@ -3,6 +3,8 @@ font-family: 'Inter', sans-serif;
 font-family: 'Merriweather', serif;
 }
 
+
+/* header section start */
 .container{
     margin: 0px 50px;
     
@@ -15,16 +17,46 @@ font-family: 'Merriweather', serif;
     background-image: url(../images/Banner\ Image.png);
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Banner\ Image.png);;
     background-repeat: no-repeat;
-   
     height: 600px;
     border-radius: 16px;
     flex-shrink: 0;
+    
    
     
 }
 
 .header-text{
-   
-    color: white;
+    width: 632px;
+    margin-top: 0;
+    padding-top: 133px;
+    padding-left: 260px;
+     text-align: center;
 
 }
+
+#header-intro{
+    margin-bottom: 0px;
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+   
+
+}
+#header-info{
+   
+    /* margin-left: 233px; */
+    margin-top: 15px;
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    
+
+}
+
+
+    /* main section start */
+
+
+    
