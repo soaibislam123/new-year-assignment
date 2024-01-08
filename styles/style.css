@@ -223,6 +223,56 @@ font-family: 'Merriweather', serif;
     line-height: 32px;
   }
 
+  /* portfolio part */
+
+  .portfolio-section{
+    margin-top: 50px;
+  }
+
+  #portfolio-intro{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  #portfolio-title{
+    margin-top: 10px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+  }
+
+  #portfolio-text{
+    margin-top: 10px;
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+  }
+
+  /* product section */
+
+  .product-items{
+    max-width: 100%;
+    gap: 20px;
+    display: flex;
+  }
+
+  .product-items img{
+    margin-top: 20px;
+    max-width: 100%;
+
+  }
+
+  
+
+  
+
   
 
  
