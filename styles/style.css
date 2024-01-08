@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 body{
 font-family: 'Inter', sans-serif;
 font-family: 'Merriweather', serif;
@@ -269,6 +273,103 @@ font-family: 'Merriweather', serif;
 
   }
 
+  /* subscribe part */
+
+  .subscribe-section{
+    text-align: center;
+    height: 616px;
+    border-radius: 16px;
+    margin-top: 100px;
+    padding-top: 200px;
+    background: rgba(255, 0, 0, 0.05);
+  }
+
+  .subscribe-logo{
+    margin: auto;
+  }
+
+  .subscribe-title{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+  }
+
+  .subscribe-text{
+    margin-left: 200px;
+    width: 696px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+  }
+
+ label{
+    position:relative;
+ }
+
+ input{
+    width: 300px;
+    border: none;
+    border-radius: 25px 0 0 25px;
+    padding: 10px;
+ }
+
+ button{
+    /* position: ;
+    top: 0;
+    bottom: 0;
+    right: 0; */
+    width: 100px;
+    position: relative;
+    left: -10px;
+    color: #FFF;
+    background-color: #F00;
+    border: none;
+    padding: 10px;
+    border-radius:  0 25px 25px 0 ;
+ }
+
+
+ /* footer section */
+
+ hr{
+    margin: 30px 70px;
+    color: red;
+ }
+
+ footer{
+    height: 609px;
+    margin: 0px 0px;
+    background-color: black;
+ }
+
+ .footer-top{
+    display: flex;
+    gap: 700px;
+    align-items: center;
+    padding-top: 110px;
+    padding-left: 70px;
+ }
+
+ 
+
+ .footer-contact, .footer-location{
+    display: flex;
+    align-items: center;
+ }
+
+ .contact-number{
+    color: #FFF;
+ }
+
+ .call-img{
+    margin-right: 10px;
+ }
   
 
   
