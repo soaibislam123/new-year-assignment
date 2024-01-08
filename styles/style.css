@@ -339,7 +339,6 @@ font-family: 'Merriweather', serif;
 
  hr{
     margin: 30px 70px;
-    color: red;
  }
 
  footer{
@@ -371,6 +370,22 @@ font-family: 'Merriweather', serif;
     margin-right: 10px;
  }
   
+
+ .icons{
+    gap: 10px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .footer-bottom{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+    color: #FFF;
+ }
+
+ 
 
   
 
