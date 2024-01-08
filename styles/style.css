@@ -303,6 +303,8 @@ font-family: 'Merriweather', serif;
 
   .subscribe-text{
     margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 20px;
     width: 696px;
     color: rgba(7, 2, 17, 0.60);
     text-align: center;
