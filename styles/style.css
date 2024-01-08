@@ -128,6 +128,7 @@ font-family: 'Merriweather', serif;
     }
 
     #party-text{
+      margin-top: 20pxj;
     width: 640px;
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
@@ -137,6 +138,7 @@ font-family: 'Merriweather', serif;
     }
 
     #party-call{
+        margin-top: 20px;
         width: 200px;
         color: #FFF;
         text-align: center;
